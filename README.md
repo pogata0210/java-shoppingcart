@@ -22,3 +22,11 @@ Below are the minimum requirements for a success project. This is not meant to b
 * Shopkeeper interface for shopkeeper to add, edit, remove products from the list, view orders from customers, update suppliers
 
 * Admin interface to update user accounts for the shopkeepers. This system does not need to work with individual user accounts (although that would a great stretch goal).
+
+## Notes
+* the system must implement full unit testing
+* the system must include swagger documentation
+* the system must use Java, Spring, Maven for the back end - for the front end, your choice
+* the system must include some form of authentication
+* the system must include at least 5 tables, at least 1 many to many relationship, at least 1 many to one relationship, and at least 4 front end screens.
+
