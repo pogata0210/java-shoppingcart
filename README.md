@@ -29,4 +29,4 @@ Below are the minimum requirements for a success project. This is not meant to b
 * the system must use Java, Spring, Maven for the back end - for the front end, your choice
 * the system must include some form of authentication
 * the system must include at least 5 tables, at least 1 many to many relationship, at least 1 many to one relationship, and at least 4 front end screens.
-
+ ENd Pont tweaked and fixed
